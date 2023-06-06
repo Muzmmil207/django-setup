@@ -1,3 +1,6 @@
+### Django project setup am frequently use
+
+---
 GETTING STARTED
 ---
 
@@ -30,8 +33,6 @@ C:.
 │   └───<your apps goes here>   
 ├───core
 │   └───settings
-├───media
-│   └───images
 ├───static
 │   ├───css
 │   ├───image
